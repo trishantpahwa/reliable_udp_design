@@ -90,8 +90,8 @@ Here’s an example of what you might see when running the system:
 
 ## 📚 **Resources**
 
-[Link to Presentation]()
+[Link to Presentation](Reliable_UDP_Protocol.pdf)
 
 [Link to video](output.svg)
 
-[Link to code]()
+[Link to code](https://github.com/trishantpahwa/reliable_udp_design)
